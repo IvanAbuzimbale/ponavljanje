@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main (){
-	int n, brojac;
+	int n, brojac=1;
 	cout<<"Unesi broj: ";
 	cin>>n;
 	int a[n][n];
